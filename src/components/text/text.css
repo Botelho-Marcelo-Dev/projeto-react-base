@@ -1,0 +1,9 @@
+.pUsado {
+    font-size: 20px;
+    background-color: darkgray;
+    padding: 20px;
+    width: 30%;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+}
