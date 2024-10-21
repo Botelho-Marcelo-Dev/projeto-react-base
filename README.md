@@ -1,6 +1,6 @@
 # Projeto React BASE
 
-<div style="text-align: center;">
+<div style="align: center;">
     <img src="./img/gifReadMe.gif" alt="Demonstração do Projeto" width="500"/>
 </div>
 
